@@ -37,7 +37,7 @@ li {
 }
 
 p {
-    margin-top: 15px;
+    margin-top: 17px;
     margin-bottom: 15px;
 }
 
@@ -72,4 +72,22 @@ button {
 
 #footer {
     text-align: center;
+}
+#flush_success {
+    width: 100%;
+    padding-top: 20px;
+    padding-left: 2%;
+    padding-bottom: 28px;
+    margin-bottom: 15px;
+    color: #e88fef;
+    background-color: #f7ddf2;
+}
+#flush_error {
+    width: 100%;
+    padding-top: 28px;
+    padding-left: 2%;
+    padding-bottom: 28px;
+    margin-bottom: 15px;
+    color: #ff0080;
+    background-color: #f8d7da;
 }
